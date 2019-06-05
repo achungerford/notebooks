@@ -1,2 +1,2 @@
 # notebooks
-Jupyter Notebooks
+Jupyter Notebooks & html output from R Notebooks
